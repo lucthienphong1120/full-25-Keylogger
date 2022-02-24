@@ -1,0 +1,77 @@
+
+Spytector 1.3.1 - the ultimate undetectable spy tool used to track all PC activities.
+
+The trial version of Spytector is detected by few antivirus applications, even if
+it's not a trojan or a hacking tool. Spytector is a commercial legitimate keylogger
+and our customers must be able to use Spytector on their computers in the same time
+with other security applications, so the version they receive (the full version)
+will be undetected for all the well known antivirus products.
+
+Spytector is tracking all the activities of PC users (visited websites, all the
+keystrokes, opened windows, applications etc.) and delivers the logs to you via
+Email or/and FTP. In the delivered logs are also included the Protected Storage
+passwords (Outlook, MSN and others), FireFox passwords and URL history (visited
+websites). The keylogger is using advanced hooking and stealth techniques.
+
+Spytector is completely invisible on the user desktop and cannot be seen in the
+task manager, it's injected into explorer.exe on the startup and whenever the log
+must be sent it will inject in the default browser or/and in the default emailer
+(for firewall bypass necessity). 
+
+Spytector server size is pretty small (about 30 KB). It doesn't need much resources,
+the memory requirements are low enough to run even on slow computers. 
+
+Spytector server is compatible with Windows 98, ME, NT4, 2000, XP and 2003.
+In the case of Windows NT (2000, XP, 2003) it works even on the Guest account.
+
+Features:
+
+ - FTP and Email log delivery
+ - keylogger filter (only specific websites/windows are tracked)
+ - option to restrict the access to specified websites
+ - option to restrict the access to specified applications
+ - clipboard monitoring
+ - option to include Protected Storage info in the log
+ - option to include FireFox passwords in the log
+ - the logs can be received either when they reached a minimum size or at specified
+   day intervals
+ - stealth features
+ - advanced firewall bypass techniques
+ - options for log delivery (using the default browser or default emailer)
+ - the server works even on Guest account (2k, XP)
+ - both small and large icons of the server can be changed (16x16 and 32x32, 256
+   colors icons)
+ - editable server name, log name, log size, startup key name
+ - melting option
+ - message option
+ - smart keylogger (BACKSPACE is applied)
+ - keylogger server overwriting protection
+ - password protection
+ - option to disable System Restore
+ - option to uninstall the server after a specific number of sent logs
+ - option to uninstall the server with a hotkey
+ - option to uninstall the server by checking HTTP
+ - option to save the settings
+ - GUI languages
+ - skinnable interface
+ - local logfile retrieving
+ - good encryption for log and server settings
+ - optional encryption for delivered logs
+
+Website:
+
+http://www.spytector.com/
+
+Email contacts:
+
+License:           sales@spytector.com
+Technical support: support@spytector.com
+General:           admin@spytector.com
+                   spytector@yahoo.com
+
+For your convenience, you may also contact us with the instant messengers:
+
+ICQ:    122622
+MSN:    spytector@hotmail.com
+Yahoo:  spytector
+AIM:    spytector
